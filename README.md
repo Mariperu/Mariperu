@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maritza</h1>
+<h1 align="center">Hi 👋, I'm Mari</h1>
 <h3 align="center">Frontend developer</h3>
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, Firebase, Jest, Figma.**
