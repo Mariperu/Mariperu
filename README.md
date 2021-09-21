@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maritza</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<h3 align="center">Frontend developer</h3>
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, Firebase, Jest, Figma.**
 
