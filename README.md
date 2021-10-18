@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mari</h1>
 <h3 align="center">Front-end developer in progress</h3>
 
-- 🌱 I’m currently learning **JavaScript, CSS, HTML, Firebase, Jest, Figma.**
+- 🌱 I’m currently learning **JavaScript, React, CSS, SASS, HTML, Firebase, Jest, Figma.**
 
 - ⚡ Fun fact **I like to learn.**
 
