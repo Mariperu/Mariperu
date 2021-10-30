@@ -3,9 +3,9 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariperu&label=Profile%20views&color=0e75b6&style=flat" alt="mariperu" /> </p>-->
 
-- 🌱 I’m currently learning **React, Sass, Bootstrap.**
+- 🌱 I’m currently learning:  **React, Sass, Bootstrap.**
 
-- ⚡ Fun fact **I like to play volleyball, learn about digital technology and I'm chemical ingenieer too.**
+- ⚡ Fun facts:  **I like to play volleyball, learn about digital technology and I'm chemical ingenieer too.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
