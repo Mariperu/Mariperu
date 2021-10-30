@@ -19,7 +19,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Github Analitycs:</h3>
+<h3 align="left">Github Analytics:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Mariperu&theme=tokyonight&show_icons=true" alt="analytics"/>
 
 <h3 align="left">Connect with me:</h3>
