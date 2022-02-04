@@ -28,6 +28,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/maritza-rodriguezg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maritza-rodriguezg" height="20" width="20" /></a>
 <a href="https://www.hackerrank.com/mari987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mari987" height="25" width="25" /></a>
+<a href="https://discord.gg/Mariperu#3883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mariperu#3883" height="30" width="40" /></a>
 </p>
 
 <!--
