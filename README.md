@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning:  **Next, TypeScript, MUI.**
 
-- ⚡ Fun facts:  **I like to play volleyball, learn about digital technology and I'm chemical ingenieer too.**
+- ⚡ Fun facts:  **I like to play volleyball, learn about digital technology and I'm chemical engenieer too.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
