@@ -21,12 +21,13 @@
 </p>
 
 <h3 align="left">Github Analytics:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Mariperu&theme=tokyonight&show_icons=true" alt="analytics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mariperu&theme=onedark&show_icons=true" alt="analytics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariperu&layout=compact" alt="stats"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maritza-rodriguezg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maritza-rodriguezg" height="20" width="20" /></a>
-<a href="https://www.hackerrank.com/mari987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mari987" height="25" width="25" /></a>
+
 <a href="https://discord.gg/Mariperu#3883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mariperu#3883" height="30" width="40" /></a>
 </p>
 
@@ -38,6 +39,8 @@
 Here are some ideas to get you started:
 
 - ⚡ Fun facts:  **I like to play volleyball and learn about digital technology and I'm chemical engenieer too.**
+
+<a href="https://www.hackerrank.com/mari987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mari987" height="25" width="25" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
