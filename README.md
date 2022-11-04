@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning:  **Next, TypeScript, MUI.**
 
-- ⚡ Fun facts:  **I like to play volleyball, learn about digital technology and I'm chemical engenieer too.**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
@@ -38,6 +36,8 @@
 **Mariperu/Mariperu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- ⚡ Fun facts:  **I like to play volleyball and learn about digital technology and I'm chemical engenieer too.**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
