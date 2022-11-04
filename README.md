@@ -21,8 +21,8 @@
 </p>
 
 <h3 align="left">Github Analytics:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Mariperu&theme=synthwave&show_icons=true" alt="analytics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariperu&layout=compact&theme=synthwave" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mariperu&theme=synthwave&show_icons=true&count_private=true" alt="analytics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariperu&layout=compact&theme=synthwave&count_private=true" alt="stats"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
