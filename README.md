@@ -25,11 +25,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Mariperu&theme=aura&show_icons=true&count_private=true" alt="analytics"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariperu&layout=compact&theme=aura&count_private=true" alt="stats"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariperu&show_icons=true&locale=en&layout=compact" alt="mariperu" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariperu&show_icons=true&locale=en" alt="mariperu" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariperu&" alt="mariperu" /></p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maritza-rodriguezg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maritza-rodriguezg" height="20" width="20" /></a>
