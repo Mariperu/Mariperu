@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mari</h1>
 <h3 align="center">Front-end developer</h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariperu&label=Profile%20views&color=0e75b6&style=flat" alt="mariperu" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariperu&label=Profile%20views&color=0e75b6&style=flat" alt="mariperu" /> </p>
 
 - 🌱 I’m currently learning:  **React Native, TypeScript, Redux, MUI.**
 
@@ -28,30 +28,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maritza-rodriguezg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maritza-rodriguezg" height="20" width="20" /></a>
- 
 </p>
 
-<!--
-### ✨ Hi there 👋
 
-**Mariperu/Mariperu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ⚡ Fun facts:  **I like to play volleyball and learn about digital technology and I'm chemical engenieer too.**
-
-<a href="https://www.hackerrank.com/mari987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mari987" height="25" width="25" /></a>
-
- <a href="https://discord.gg/Mariperu#3883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mariperu#3883" height="30" width="40" /></a>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 👨‍💻 All of my projects are available at [https://maritzarodriguez.netlify.app/](https://maritzarodriguez.netlify.app/)
--->
