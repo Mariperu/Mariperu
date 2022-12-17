@@ -20,9 +20,9 @@
 </p>
 
 <h3 align="left">Github Stats:</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariperu&label=Profile%20views&color=0e75b6&style=flat" alt="mariperu" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Mariperu&theme=aura&show_icons=true&count_private=true" alt="analytics"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariperu&layout=compact&theme=aura&count_private=true" alt="stats"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariperu&label=Profile%20views&color=0e75b6&style=flat" alt="mariperu" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
