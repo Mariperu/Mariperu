@@ -3,7 +3,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariperu&label=Profile%20views&color=0e75b6&style=flat" alt="mariperu" /> </p>-->
 
-- 🌱 I’m currently learning:  **Redux, React Native, TypeScript.**
+- 🌱 I’m currently learning:  **React Native, TypeScript, Redux, MUI.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
