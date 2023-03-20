@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mari</h1>
 <h3 align="center">Front-end developer</h3>
 
-- 🌱 I’m currently learning:  **React Native, TypeScript, Redux, MUI.**
+- 🌱 I’m currently learning:  **React Native, TypeScript, Redux, MUI, Python.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
