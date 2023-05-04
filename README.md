@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mari</h1>
 <h3 align="center">Front-end developer</h3>
-
+<br>
 - 🌱 I’m currently learning:  **Python, Flask, Django, Redux, MUI.**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,13 +30,13 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
  -->
- <br>
+<br>
 <h3 align="left">Github Stats:</h3>
 <section display="flex" justifyContent="space-between">
 <img src="https://github-readme-stats.vercel.app/api?username=Mariperu&theme=aura&show_icons=true&count_private=true" alt="analytics"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariperu&layout=compact&theme=aura&count_private=true" alt="stats"/>
 </section>
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maritza-rodriguezg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maritza-rodriguezg" height="20" width="20" /></a>
