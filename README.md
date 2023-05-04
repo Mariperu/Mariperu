@@ -31,19 +31,17 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
  -->
- <div display="flex" justifyContent="space-between">
-<section>
+
+
  <h3 align="left">Github Stats:</h3>
+ <section display="flex" justifyContent="space-between">
 <img src="https://github-readme-stats.vercel.app/api?username=Mariperu&theme=aura&show_icons=true&count_private=true" alt="analytics"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariperu&layout=compact&theme=aura&count_private=true" alt="stats"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariperu&label=Profile%20views&color=0e75b6&style=flat" alt="mariperu" /> </p>
 </section>
-
-<section>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maritza-rodriguezg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maritza-rodriguezg" height="20" width="20" /></a>
 </p>
-</section>
-  </div>
 
