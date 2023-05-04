@@ -31,13 +31,12 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
  -->
-<br>
 <h3 align="left">Github Stats:</h3>
 <section display="flex" justifyContent="space-between">
 <img src="https://github-readme-stats.vercel.app/api?username=Mariperu&theme=aura&show_icons=true&count_private=true" alt="analytics"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariperu&layout=compact&theme=aura&count_private=true" alt="stats"/>
 </section>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariperu&label=Profile%20views&color=0e75b6&style=flat" alt="mariperu" /> </p>
 <br>
 <h3 align="left">Connect with me:</h3>
