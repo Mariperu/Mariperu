@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mari</h1>
 <h3 align="center">Front-end developer</h3>
 
-- 🌱 I’m currently learning:  **Python, Flask, Django, Redux, Angular.**
+- 🌱 I’m currently learning:  **Python, Django, Redux, Angular.**
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
