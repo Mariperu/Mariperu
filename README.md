@@ -32,7 +32,7 @@
  -->
 <h3 align="left">Github Stats:</h3>
 <section display="flex" justifyContent="space-between">
-<img src="https://github-readme-stats.vercel.app/api?username=Mariperu&theme=aura&show_icons=true&count_private=true" alt="analytics"/>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Mariperu&theme=aura&show_icons=true&count_private=true" alt="analytics"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariperu&layout=compact&theme=aura&count_private=true" alt="stats"/>
 </section>
 <br>
